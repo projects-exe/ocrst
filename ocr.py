@@ -4,7 +4,7 @@ from PIL import Image
 import numpy as np
 
 # title
-st.title("Optical Character Recognition for Dyslexia")
+st.title("Optical Character Recognition for  Dyslexia")
 
 # subtitle
 st.markdown("## Using `easyocr`, `streamlit`")
